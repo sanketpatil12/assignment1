@@ -189,7 +189,7 @@ font-family: 'Outfit', sans-serif;
     margin-left: 500px;
     z-index: 1;
      color: rgb(131, 82, 19);
-    background: url(/BTH/home1.jpg), rgba(0, 0, 0, 0.438);
+    background: url(BTH/home1.jpg), rgba(0, 0, 0, 0.438);
     background-blend-mode: overlay;
     background-size: cover;
     position:absolute;
